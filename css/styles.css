@@ -30,11 +30,15 @@ ul {
 }
 
 footer {
-  text-align: center;
+  display: flex;
   font-size: 19px;
+  justify-content: space-evenly;
   color: #ffffff;
   background-color: #005677;
+  align-items: center;
 }
+
+
 
 .sinpuntos {
   list-style-type: none;
